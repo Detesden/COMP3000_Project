@@ -121,7 +121,7 @@ There are instructions for both downloading the prebuilt software and building i
 ---
 
 ## <a id="walkthrough"></a>🎞️ Video Walkthrough
-[YouTube](https://youtu.be/)
+[YouTube](https://youtu.be/VxLBz0PC5QI)
 
 ---
 
